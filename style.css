@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+footer{
+    margin-top: 29rem;
+    padding-left: 2rem;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
